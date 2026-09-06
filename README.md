@@ -271,3 +271,43 @@ Feel the softness of that grassland, savor the gentleness of the wind.
 “失去一切之后，你才真正自由。”——《搏击俱乐部》
 
 “It’s only after we’ve lost everything that we’re free to do anything.”——Fight Club
+
+---
+
+> A wall of the voices quoted above, in their original tongue：（上面引过的声音，原文一墙）
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The%20things%20you%20own%20end%20up%20owning%20you.&font=Bebas+Neue&size=28&color=000000&center=true&width=560&pause=1200" alt="The things you own end up owning you." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=It%27s%20only%20after%20we%27ve%20lost%20everything%20that%20we%27re%20free%20to%20do%20anything.&font=Oswald&size=26&color=000000&center=true&width=720&pause=1200" alt="It's only after we've lost everything that we're free to do anything." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%27m%20God%27s%20lonely%20man.&font=Special+Elite&size=34&color=000000&center=true&width=560&pause=1200" alt="I'm God's lonely man." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=More%20human%20than%20human.&font=Rajdhani&size=36&color=000000&center=true&width=560&pause=1200" alt="More human than human." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%27ve%20seen%20things%20you%20people%20wouldn%27t%20believe...%20all%20those%20moments%20will%20be%20lost%20in%20time%2C%20like%20tears%20in%20rain.&font=Orbitron&size=18&color=000000&center=true&width=1180&pause=1200" alt="I've seen things you people wouldn't believe — all those moments will be lost in time, like tears in rain." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=People%20think%20it%27s%20all%20misery%20and%20desperation...%20but%20they%20forget%20the%20pleasure%20of%20it.&font=Permanent+Marker&size=24&color=000000&center=true&width=820&pause=1200" alt="People think it's all misery and desperation… but they forget the pleasure of it." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=You%20see%20us%20as%20you%20want%20to%20see%20us%20%E2%80%94%20in%20the%20simplest%20terms%2C%20the%20most%20convenient%20definitions.&font=Courier+Prime&size=22&color=000000&center=true&width=940&pause=1200" alt="You see us as you want to see us — in the simplest terms, the most convenient definitions." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E5%9B%A0%E7%82%BA%E4%BA%BA%E7%9A%84%E6%84%9F%E6%83%85%E6%98%AF%E5%BE%88%E9%9B%A3%E6%8E%A7%E5%88%B6%E7%9A%84%EF%BC%8C%E6%89%80%E4%BB%A5%E6%88%91%E5%80%91%E4%B8%80%E7%9B%B4%E4%BF%9D%E6%8C%81%E8%B7%9D%E9%9B%A2%E3%80%82&font=Noto+Serif+TC&size=24&color=000000&center=true&width=1040&pause=1200" alt="因為人的感情是很難控制的，所以我們一直保持距離。" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E3%81%8A%E5%89%8D%E3%81%AB%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%97%E3%81%A6%E3%82%84%E3%82%8B%E3%82%88&font=Noto+Serif+JP&size=34&color=000000&center=true&width=720&pause=1200" alt="お前にできないことしてやるよ" />
+</p>
