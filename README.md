@@ -82,3 +82,4 @@ also as a lazy one, I really do hope I can insist on something, or even better, 
   <img src="https://readme-typing-svg.demolab.com/?lines=I+choose+something+else.&font=Cinzel&size=30&pause=800&color=9B4F96&center=true&width=760" alt="I choose something else" />
 </p>
 
+但我
