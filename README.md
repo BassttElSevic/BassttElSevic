@@ -1,6 +1,6 @@
 # Choose Life
 
-Wow, u foung this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
+Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
 
 <p align="center">
   <img
