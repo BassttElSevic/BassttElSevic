@@ -57,13 +57,10 @@ Hi it's *Basstt ElSevic* here, also call me "阿酒" or 'Alkhol' ~~(yes! without
 <img width="1080" height="723" alt="ChooseLife" src="https://github.com/user-attachments/assets/2b39fd24-8b65-448d-97c7-b64ee26a7384" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+chose+something+else.&font=Cinzel&size=25&pause=800&color=C084FC&center=true&width=430" alt="I chose something else" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+choose+something+else.&font=Cinzel&size=25&pause=800&color=C084FC&center=true&width=430" alt="I cho0se something else" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+chose+something+else.&font=Cinzel&size=30&pause=800&color=9B4F96&center=true&width=760" alt="I chose something else" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+choose+something+else.&font=Cinzel&size=30&pause=800&color=9B4F96&center=true&width=760" alt="I choose something else" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+chose+something+else.&font=Cinzel&size=40&pause=800&color=5B21B6&center=true&width=1160" alt="I chose something else" />
-</p>
