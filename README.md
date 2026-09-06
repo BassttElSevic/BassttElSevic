@@ -36,7 +36,7 @@ Wow, u foung this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https
 [![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=162B1F)](https://www.qt.io/)
 [![GCC](https://img.shields.io/badge/GCC-FF6600?style=for-the-badge&logo=gnu&logoColor=white&labelColor=2D2D2D)](https://gcc.gnu.org/)
 [![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white&labelColor=2D5016)](https://www.gnu.org/software/make/)
-[![CMake](https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&logo=cmake&logoColor=white&labelColor=064F8C)](https://cmake.org/)
+[![CMake](https://img.shields.io/badge/CMake-2EA043?style=for-the-badge&logo=cmake&logoColor=white&labelColor=064F8C)](https://cmake.org/)
 
 </div>
 
