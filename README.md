@@ -274,8 +274,6 @@ Feel the softness of that grassland, savor the gentleness of the wind.
 
 ---
 
-> A wall of the voices quoted above, in their original tongue：（上面引过的声音，原文一墙）
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=The%20things%20you%20own%20end%20up%20owning%20you.&font=Bebas+Neue&size=28&color=000000&center=true&width=560&pause=1200" alt="The things you own end up owning you." />
 </p>
@@ -297,11 +295,11 @@ Feel the softness of that grassland, savor the gentleness of the wind.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=People%20think%20it%27s%20all%20misery%20and%20desperation...%20but%20they%20forget%20the%20pleasure%20of%20it.&font=Permanent+Marker&size=24&color=000000&center=true&width=820&pause=1200" alt="People think it's all misery and desperation… but they forget the pleasure of it." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=People%20think%20it%27s%20all%20misery%20and%20desperation...;but%20they%20forget%20the%20pleasure%20of%20it.&font=Permanent+Marker&size=24&color=000000&center=true&width=620&pause=1200" alt="People think it's all misery and desperation… but they forget the pleasure of it." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=You%20see%20us%20as%20you%20want%20to%20see%20us%20%E2%80%94%20in%20the%20simplest%20terms%2C%20the%20most%20convenient%20definitions.&font=Courier+Prime&size=22&color=000000&center=true&width=940&pause=1200" alt="You see us as you want to see us — in the simplest terms, the most convenient definitions." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=You%20see%20us%20as%20you%20want%20to%20see%20us%E2%80%A6;in%20the%20simplest%20terms%2C%20the%20most%20convenient%20definitions.&font=Courier+Prime&size=22&color=000000&center=true&width=820&pause=1200" alt="You see us as you want to see us — in the simplest terms, the most convenient definitions." />
 </p>
 
 <p align="center">
