@@ -66,6 +66,10 @@ also as a lazy one, I really do hope I can insist on something, or even better, 
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=BassttElSevic&theme=dark&hide_border=true" />                                       
 </p>   
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-purple.svg" alt="3D contribution" />
+</p>
+
 ## Choose something else
 
 <img width="1080" height="723" alt="ChooseLife" src="https://github.com/user-attachments/assets/2b39fd24-8b65-448d-97c7-b64ee26a7384" />

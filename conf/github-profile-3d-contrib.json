@@ -1,0 +1,19 @@
+[
+    {
+        "type": "normal",
+        "fileName": "profile-purple.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#1e1e2e",
+        "strongColor": "#5B21B6",
+        "weakColor": "#c4b5fd",
+        "radarColor": "#9B4F96",
+        "growingAnimation": true,
+        "contribColors": [
+            "#f3e8ff",
+            "#d8b4fe",
+            "#a855f7",
+            "#9333ea",
+            "#6b21a8"
+        ]
+    }
+]
