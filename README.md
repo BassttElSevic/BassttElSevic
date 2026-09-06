@@ -160,7 +160,7 @@ Once fantasized: with the harness on, imitating them, could I become one of them
 
 Having wagged its tail and vanished from their sight, that stench of disgust drifted out upon the wind. Sometimes the wind tries to warn the beast, to tell it the truth; it sniffed carefully, astonished. Because, in front of them, they seemed, very “polite.”
 
-“因为人的感情很难控制，所以我们一直保持着距离。”——《堕落天使》
+“因为人的感情是很难控制的，所以我们一直保持距离。”——《堕落天使》
 
 “Because human emotions are hard to control, so we always kept our distance.”——Fallen Angels
 
@@ -256,9 +256,9 @@ However terrible the pain on the far shore, it is nothing but fantasy and fictio
 
 “People think it’s all misery and desperation… but they forget the pleasure of it.”——Trainspotting
 
-“只要想像后面有个游泳池，就不那么可怕了。”——《蓝色青春》
+“我要做你做不到的事。”——《蓝色青春》
 
-“Just imagine there’s a pool behind you, and it’s not so scary.”——Blue Spring
+“I’ll do something you can’t do.”——Blue Spring
 
 脱下那挽具，放逐自己，因为体面者其实不配放逐野兽，你是自己的放逐者。放逐自己，放逐到那片温柔的原野。
 
