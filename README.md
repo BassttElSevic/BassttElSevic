@@ -309,3 +309,13 @@ Feel the softness of that grassland, savor the gentleness of the wind.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E3%81%8A%E5%89%8D%E3%81%AB%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%97%E3%81%A6%E3%82%84%E3%82%8B%E3%82%88&font=Noto+Serif+JP&size=34&color=000000&center=true&width=720&pause=1200" alt="お前にできないことしてやるよ" />
 </p>
+
+---
+
+可我又如何不痛苦呢？我曾经真切的幻想，我的一切自我约束，那一切，能让我成为你们的同类
+
+但我错了，我一直是被你们所厌恶，嫌弃的。。。
+
+心非木石岂无感？
+
+我现在，不再渴望你们，我只想，选择点别的。
