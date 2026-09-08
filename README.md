@@ -2,6 +2,8 @@
 
 Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
 
+<br>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=Choose+Life.;Choose+a+job.+Choose+a+career.+Choose+a+family.;Choose+a+f**king+big+television.;Choose+washing+machines,+cars,+compact+disc+players+and+electrical+tin+openers.;Choose+good+health,+low+cholesterol+and+dental+insurance.;Choose+fixed-interest+mortgage+repayments.+Choose+a+starter+home.;Choose+your+friends.+Choose+leisurewear+and+matching+luggage.;Choose+a+three-piece+suite+on+hire+purchase+in+a+range+of+fabrics.;Choose+DIY+and+wondering+who+the+f**k+you+are+on+a+Sunday+morning.;Choose+watching+mind-numbing,+spirit-crushing+game+shows,+stuffing+f**king+junk+food.;Pishing+your+last+in+a+miserable+home,+an+embarrassment+to+the+f**ked-up+brats+you've+spawned.;Choose+your+future.+Choose+life.;But+why+would+I+want+to+do+a+thing+like+that?;I+chose+not+to+choose+life.+I+chose+something+else.&font=Fira+Code&size=20&duration=1500&pause=1500&color=9B4F96&center=true&width=1080"
@@ -316,9 +318,22 @@ Feel the softness of that grassland, savor the gentleness of the wind.
 
 但我错了，我一直是被你们所厌恶，嫌弃的。。。
 
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%E5%9B%A0%E7%82%BA%E4%BA%BA%E7%9A%84%E6%84%9F%E6%83%85%E6%98%AF%E5%BE%88%E9%9B%A3%E6%8E%A7%E5%88%B6%E7%9A%84%EF%BC%8C%E6%89%80%E4%BB%A5%E6%88%91%E5%80%91%E4%B8%80%E7%9B%B4%E4%BF%9D%E6%8C%81%E8%B7%9D%E9%9B%A2%E3%80%82&font=ZCOOL+XiaoWei&size=34&color=9B4F96&center=true&width=1040&pause=1500" alt="心非木石豈無感？吞聲躑躅不敢言" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E5%BF%83%E9%9D%9E%E6%9C%A8%E7%9F%B3%E8%B1%88%E7%84%A1%E6%84%9F%EF%BC%9F%E5%90%9E%E8%81%B2%E8%BA%91%E8%BA%85%E4%B8%8D%E6%95%A2%E8%A8%80&font=Noto+Serif+TC&size=32&color=9B4F96&center=true&width=1100&pause=1500" alt="心非木石豈無感？吞聲躑躅不敢言" />
 </p>
 
 我现在，不再渴望你们的挽具，我只想，选择点别的。
 
+<p align="center">
+  <img width="1256" height="1292" alt="gif" src="https://github.com/user-attachments/assets/924f160d-f235-49cf-9514-2551eb9f0171" />
+</p>
+<p align="center">
+  疼痛是我们感受活着的唯一方式。
+</p>
+<p align="center">
+  𝕻𝖆𝖎𝖓 𝖎𝖘 𝖙𝖍𝖊 𝖔𝖓𝖑𝖞 𝖕𝖗𝖔𝖔𝖋 𝖙𝖍𝖆𝖙 𝖜𝖊 𝖆𝖗𝖊 𝖆𝖑𝖎𝖛𝖊.
+</p>
+
+<br>
