@@ -1,4 +1,4 @@
-# Choose Life
+# 𝕮𝖍𝖔𝖔𝖘𝖊 𝕷𝖎𝖋𝖊
 
 Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
 
@@ -72,7 +72,7 @@ also as a lazy one, I really do hope I can insist on something, or even better, 
   <img src="./profile-3d-contrib/profile-purple.svg" alt="3D contribution" />
 </p>
 
-## Choose something else
+# 𝕮𝖍𝖔𝖔𝖘𝖊 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖑𝖘𝖊
 
 <img width="1080" height="723" alt="ChooseLife" src="https://github.com/user-attachments/assets/2b39fd24-8b65-448d-97c7-b64ee26a7384" />
 
@@ -84,7 +84,7 @@ also as a lazy one, I really do hope I can insist on something, or even better, 
   <img src="https://readme-typing-svg.demolab.com/?lines=I+choose+something+else.&font=Cinzel&size=30&pause=800&color=9B4F96&center=true&width=760" alt="I choose something else" />
 </p>
 
-## Choose for what
+# 𝕮𝖍𝖔𝖔𝖘𝖊 𝖋𝖔𝖗 𝖜𝖍𝖆𝖙？
 
 可为什么要“选择生活，选择点别的”？
 
@@ -313,6 +313,8 @@ Feel the softness of that grassland, savor the gentleness of the wind.
 </p>
 
 ---
+
+# 𝕳𝖔𝖜 𝖘𝖍𝖔𝖚𝖑𝖉 𝕴 𝖘𝖙𝖔𝖕 𝖋𝖊𝖆𝖗𝖎𝖓𝖌 𝖆𝖓𝖉 𝖑𝖊𝖆𝖗𝖓 𝖙𝖔 𝖑𝖔𝖛𝖊 𝖙𝖍𝖊 𝖇𝖔𝖒𝖇?
 
 可我又如何不痛苦呢？我曾经真切的幻想，我的一切自我约束，那一切，能让我成为你们的同类
 
