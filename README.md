@@ -62,7 +62,7 @@ As u can see ₍ ^. .^ ₎⟆, I like:
   <img alt="Skills" src="https://skillicons.dev/icons?i=c,cpp,rust,python,linux,neovim,vscode,qt,cmake,bash,git" />
 </p>
 
-also as a lazy one, I really do hope I can insist on something, or even better, obessed on something ꒰ঌ ( ˶ˆᗜˆ˵ ) ໒꒱
+also, lazy as I am, I really do hope I can stick to something, or even better, get obsessed with something ꒰ঌ ( ˶ˆᗜˆ˵ ) ໒꒱
 
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=BassttElSevic&theme=dark&hide_border=true" />
