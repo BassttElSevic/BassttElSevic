@@ -52,6 +52,8 @@ Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https
 
 Hi it’s *Basstt ElSevic* here, also call me “阿酒” or ‘Alkhol’ ~~(yes! without o!)~~  please ₍ ᐢ.ˬ.ᐢ ₎ ♡~ .
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=You+are+not+your+job.;You're+not+how+much+money+you+have+in+the+bank.;You're+not+the+car+you+drive.;You're+not+the+contents+of+your+wallet.;You're+not+your+f**king+khakis.;You're+the+all-singing,+all-dancing+crap+of+the+world.;Advertising+has+us+chasing+cars+and+clothes;working+jobs+we+hate+so+we+can+buy+sh*t+we+don't+need.;We're+the+middle+children+of+history,+man.;No+purpose+or+place.+We+have+no+Great+War.;No+Great+Depression.+Our+great+war+is+a+spiritual+war.;Our+great+depression+is+our+lives.;We've+been+raised+on+television+to+believe;that+one+day+we'd+all+be+millionaires,+movie+gods,+and+rock+stars.;But+we+won't.+And+we're+slowly+learning+that+fact.;And+we're+very,+very+pissed+off.&font=Courier+Prime&size=22&pause=1500&color=9B4F96&center=true&width=1020" alt="Fight Club" />
 </p>
