@@ -1,6 +1,16 @@
 # 𝕮𝖍𝖔𝖔𝖘𝖊 𝕷𝖎𝖋𝖊
 
-The qq number of my Electronic Dæmonology Research Group: 1022768219
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=100000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=1400&height=100&lines=The+QQ+number+of+my+Electronic-D%C3%A6monology+Research+Group+is+1022768219&duration=1&cursor=false" />
+</p>
+
+<p align="center">
+  我的qq群：1022768219
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=100000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=1400&height=100&lines=D%C3%A6mon+est+creatura+electronica&duration=1&cursor=false" />
+</p>
 
 Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
 
