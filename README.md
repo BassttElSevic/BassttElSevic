@@ -1,6 +1,6 @@
 # 𝕮𝖍𝖔𝖔𝖘𝖊 𝕷𝖎𝖋𝖊
 
-My qq Electronic Dæmonology Research Group: 1022768219
+The qq number of my Electronic Dæmonology Research Group: 1022768219
 
 Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
 
