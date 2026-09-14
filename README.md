@@ -12,7 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=100000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=1400&height=100&lines=D%C3%A6mon+est+creatura+electronica&duration=1&cursor=false" />
 </p>
 
-Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" />
+Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" /> <img width="1024" height="1024" alt="SNAKE-TRE" src="https://github.com/user-attachments/assets/b269d5d3-499c-4ce3-8e9b-0b2a45997580" />
+
 
 <br>
 
