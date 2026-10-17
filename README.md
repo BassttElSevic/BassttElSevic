@@ -16,7 +16,6 @@
 
 Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https://komarev.com/ghpvc/?username=BassttElSevic&color=9B4F96" /> <img width="1024" height="1024" alt="图片" src="https://github.com/user-attachments/assets/c857a662-3cf2-4ec8-9e17-a329ac349129" />
 
-
 <br>
 
 <p align="center">
@@ -34,6 +33,8 @@ Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https
 [![C++](https://img.shields.io/badge/C++-6495ED?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)](https://isocpp.org/)
 [![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)](https://www.python.org/)
+[![Verilog](https://img.shields.io/badge/Verilog-008080?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNiA2aDEydjEySDZ6TTkgMnY0TTE1IDJ2NE05IDE4djRNMTUgMTh2NE0yIDloNE0yIDE1aDRNMTggOWg0TTE4IDE1aDQiLz48L3N2Zz4%3D&logoColor=white&labelColor=004D40&label=%20)](https://en.wikipedia.org/wiki/Verilog)
+[![VHDL](https://img.shields.io/badge/VHDL-7B42BC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNiA2aDEydjEySDZ6TTkgMnY0TTE1IDJ2NE05IDE4djRNMTUgMTh2NE0yIDloNE0yIDE1aDRNMTggOWg0TTE4IDE1aDQiLz48L3N2Zz4%3D&logoColor=white&labelColor=3D2360&label=%20)](https://en.wikipedia.org/wiki/VHDL)
 
 </div>
 
@@ -41,6 +42,7 @@ Wow, u found this lil corner, cool!  (*´∀`*)   <img alt="visitors" src="https
 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=169C16)](https://neovim.io/)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=00BFFF)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=303030)](https://www.espressif.com/en/products/socs/esp32)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMDA3QUNDIiBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B&logoColor=white&labelColor=1E1E1E&label=%20)](https://code.visualstudio.com/)
 [![CLion](https://img.shields.io/badge/CLion-00CD74?style=for-the-badge&logo=clion&logoColor=white&labelColor=000000)](https://www.jetbrains.com/clion/)
 [![JetBrains](https://img.shields.io/badge/JetBrains-FF6B00?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=000000)](https://www.jetbrains.com/)
