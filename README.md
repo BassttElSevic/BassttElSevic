@@ -8,6 +8,8 @@
   我的qq群：1022768219
 </p>
 
+<img width="1920" height="1920" alt="D75C00D76AE467D615249CAA7313645F" src="https://github.com/user-attachments/assets/b962dde4-fe29-47ee-bace-033efabb2dff" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=100000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=1400&height=100&lines=D%C3%A6mon+est+creatura+electronica&duration=1&cursor=false" />
 </p>
