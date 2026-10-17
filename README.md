@@ -78,7 +78,11 @@ Hi it’s *Basstt ElSevic* here, also call me “阿酒” or ‘Alkhol’ ~~(ye
 As u can see ₍ ^. .^ ₎⟆, I like:
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=c,cpp,rust,python,linux,neovim,vscode,qt,cmake,bash,git" /><img alt="Makefile, Verilog and VHDL" src="./assets/skills/makefile-verilog-vhdl.svg?v=2" height="48" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=c,cpp,rust,python,linux,neovim,vscode,qt,cmake,bash,git" />
+</p>
+
+<p align="center">
+  <img alt="Makefile, Verilog and VHDL" src="./assets/skills/makefile-verilog-vhdl.svg?v=3" height="48" />
 </p>
 
 also, lazy as I am, I really do hope I can stick to something, or even better, get obsessed with something ꒰ঌ ( ˶ˆᗜˆ˵ ) ໒꒱
