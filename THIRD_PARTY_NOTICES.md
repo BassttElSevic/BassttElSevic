@@ -2,8 +2,9 @@
 
 ## vscode-icons
 
-The Verilog and VHDL badge icons embedded in README.md come from
-https://github.com/vscode-icons/vscode-icons (icons/file_type_verilog.svg
+The Verilog icon in assets/badges/verilog.svg and the VHDL badge icon
+embedded in README.md come from
+<https://github.com/vscode-icons/vscode-icons> (icons/file_type_verilog.svg
 and icons/file_type_vhdl.svg). Original icon colors are retained.
 
 The MIT License (MIT)
